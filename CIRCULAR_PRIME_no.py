@@ -31,4 +31,4 @@ while no<1000000:
                 ccnt+=1
             t=t+1
             no=int(t)
-print ("total=",ccnt)
+print ("total circular prime no=",ccnt)
